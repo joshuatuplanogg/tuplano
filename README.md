@@ -1,2 +1,0 @@
-# tuplano
-Personal Website T
